@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/1200x/df/e0/f8/dfe0f8f67462bc006e1a96f8ea4d9c2f.jpg)](https://rishavchanda.io)
 <h1 align="center">Hello 👋, I'm Amogh Agrawal</h1>
-<h3 align="center">Aspiring Data Scientist, Machine Learning Engineer from India</h3>
+<h3 align="center">Aspiring Data Scientist, AIML Engineer </h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Amogh1007&label=Profile%20views&color=0e75b6&style=flat" alt="Amogh1007" /> </p>
@@ -9,11 +9,11 @@
 
 <!--<p align="left"> <a href="https://twitter.com/@amoghagrawal12" target="blank"><img src="https://img.shields.io/twitter/follow/@amoghagrawal12?logo=twitter&style=for-the-badge" alt="@amoghagrawal12" /></a> </p>-->
 
-- 🌱 I’m currently learning **ML,DSA,NLP**
+- 🌱 I’m currently exploring **AI Agents**
 
 - 👯 I’m looking to collaborate on **Innovative Projects, Data Science Hackathon, Data Science Projects, Research in AI**
 
-- 💬 Ask me about **C,C++,Python,Machine Learning,Data Science,Computer Vision**
+- 💬 Ask me about **Machine Learning,Deep Learning,Data Science,Computer Vision,C++**
 
 - 📫 How to reach me **amoghagrawal2004@gmail.com**
 
