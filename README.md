@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Innovative Projects, Data Science Hackathon, Data Science Projects, Research in AI**
 
-- 💬 Ask me about **Machine Learning,Deep Learning,Data Science,Computer Vision,C++**
+- 💬 Ask me about **Machine Learning, Deep Learning, Data Science, Computer Vision, C++**
 
 - 📫 How to reach me **amoghagrawal2004@gmail.com**
 
